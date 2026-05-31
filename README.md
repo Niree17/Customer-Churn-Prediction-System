@@ -16,6 +16,10 @@ This project predicts **customer churn** (whether a customer will leave a servic
 **Evaluation Metrics** – Uses accuracy, precision, recall, and F1-score.  
 
 ---
+<img width="1371" height="753" alt="image" src="https://github.com/user-attachments/assets/5a10076c-0852-407b-81e3-674929809e63" />
+<img width="1313" height="696" alt="image" src="https://github.com/user-attachments/assets/c664f353-7f31-4873-b98c-cec1aaabb85d" />
+
+
 
 ## Installation  
 
